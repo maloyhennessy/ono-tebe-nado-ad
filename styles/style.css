@@ -38,7 +38,6 @@
     flex-direction: column;
     align-items: flex-start;
     line-height: 1.4;
-    align-items: flex-start;
     max-width: 220px;
     justify-self: end;
 }
@@ -110,11 +109,10 @@
 /* Свойства Лотов */
 .lots {
     margin: 180px 24px 0 24px;
-    background-color: pink;
 }
 
 .lots_title {
-    margin: 0 40px 40px;
+    margin: 0 40px 27px;
     font-size: 40px;
     text-transform: uppercase;
 }
