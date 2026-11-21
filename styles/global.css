@@ -36,3 +36,13 @@ img {
 button {
   font: inherit;
 }
+
+ul {
+    list-style-type: circle;
+}
+
+h1 {
+  font-size: 100px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
